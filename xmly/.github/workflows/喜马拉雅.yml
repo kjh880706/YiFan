@@ -25,4 +25,3 @@ jobs:
         env:
             XMLY_SPEED_COOKIE: ${{ secrets.XMLY_SPEED_COOKIE }}
     
-
