@@ -1,9 +1,9 @@
 {
   "id": "YiFan.app.sub",
-  "name": "YiFa应用订阅",
-  "author": "@YiFa",
+  "name": "YiFan应用订阅",
+  "author": "@YiFan",
   "icon": "https://avatars2.githubusercontent.com/u/22700758?s=88&u=26d911ccb8345dac955238c2ed6c572892ef924a&v=4",
-  "repo": "https://github.com/kjh880706/YiFa",
+  "repo": "https://github.com/kjh880706/YiFan",
   "apps": [
     {
       "id": "shareCode",
@@ -132,7 +132,7 @@
           "desc": "京喜工厂互助码.你自己的互助码."
         }
       ],
-      "author": "@whyour",
+      "author": "@YiFan",
       "repo": "https://github.com/whyour/hundun/blob/master/quanx/shareCode-auto.js",
       "script": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/shareCode-auto.js",
       "icons": [
