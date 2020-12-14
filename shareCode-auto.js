@@ -7,6 +7,13 @@
  */
 const $ = new Env("互助码");
 const shareCodes = [
+   {
+     zd: $.getdata("zd_shareCode1") || "mlrdw3aw26j3wq2qpy4fvfgf3amccut2amoss4i",
+    nc: $.getdata("nc_shareCode1") || "cb72c960da7c4553958dc406744c7b1e",
+    mc: $.getdata("mc_shareCode1") || "MTE1NDAxNzYwMDAwMDAwMzg5OTczMTM=",
+    ddgc: $.getdata("dd_shareCode1") || "P04z54XCjVWnYaS5mQNDmL923pN",
+    jxgc: $.getdata("jx_shareCode1") || "create/KTb8NtG0YDR8kYo8J0Pn1w==",
+  },
   {
     zd: $.getdata("zd_shareCode1") || "",
     nc: $.getdata("nc_shareCode1") || "",
